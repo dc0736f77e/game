@@ -1,1 +1,1 @@
-Dein erstes Git Repository :)
+Hallo World!
