@@ -1,4 +1,16 @@
 <resources>
-    <string name="app_name">My Application2</string>
+    <string name="app_name">My Application22</string>
     <string name="action_settings">Settings</string>
+    <string name="reduce">Reduce</string>
+    <string name="enter_nominator">Enter Nominator</string>
+    <string name="divided_by">divided by</string>
+    <string name="enter_dominator">Enter Dominator</string>
+    <string name="diag">prime check</string>
+    <string name="divisor">divisor:</string>
+    <string name="noPrime">is not a prime.</string>
+    <string name="falseArgument">is not an integer > 1.</string>
+    <string name="prime">is a prime.</string>
+    <string name="prompt">go to prime checker</string>
+    <string name="enter">Please enter Number</string>
+    <string name="alert">Please enter nominator and dominator</string>
 </resources>
