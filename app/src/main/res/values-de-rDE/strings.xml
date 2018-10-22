@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine App2</string>
+    <string name="action_settings">Einstellung</string>
+    <string name="reduce">Teilen</string>
+    <string name="enter_nominator">Gebe Zähler ein</string>
+    <string name="divided_by">geteilt durch</string>
+    <string name="enter_dominator">Gebe Nenner ein</string>
+    <string name="prompt">gehe zu Primzahlchecker</string>
+    <string name="diag">Primzahl Check</string>
+    <string name="prime">ist eine Primzahl</string>
+    <string name="divisor">teiler</string>
+    <string name="noPrime">ist keine Primzahl.</string>
+    <string name="falseArgument">ist eine Zahl >1.</string>
+    <string name="alert">Bitte gebe Zähler und Nenner ein</string>
+    <string name="enter">Bitte Zahl eingeben</string>
+</resources>
